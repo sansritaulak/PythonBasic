@@ -11,3 +11,10 @@ dir(calendar)
 import IfStatement 
 print(per)
 
+
+###Import from different sub directory 
+# import subdirectoryname.file name
+
+###Import from a different directory 
+# sys.path.append(path)
+# import filename 
