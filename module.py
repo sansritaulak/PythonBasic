@@ -9,7 +9,6 @@ dir(calendar)
 
 #import your own module
 import IfStatement 
-print(per)
 
 
 ###Import from different sub directory 
